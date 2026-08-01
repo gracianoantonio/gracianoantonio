@@ -1,7 +1,7 @@
 ### Hi there!
-I'm [**Gazi**](https://gazijarin.com), a software engineer and artist in New York City.
+I'm [**Antonio**](https://isomoon.com), a software engineer in Dallas, Texas.
 
-I currently work as a software engineer at [**@Google**](https://github.com/google), where I help build Proxybidder ML models that make Google Search money. Previously, I was at [**@Amazon**](https://github.com/aws) and [**@Pinterest**](https://github.com/pinterest).
+I'm currently a student at [**@The University of Texas at Dallas**](https://github.com/utdal)
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
