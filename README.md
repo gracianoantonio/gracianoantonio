@@ -6,5 +6,4 @@ I'm currently a student at [**@The University of Texas at Dallas**](https://gith
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@gazijarin.ai)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
