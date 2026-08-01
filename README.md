@@ -1,5 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
+### Hi there!
 I'm [**Gazi**](https://gazijarin.com), a software engineer and artist in New York City.
 
 I currently work as a software engineer at [**@Google**](https://github.com/google), where I help build Proxybidder ML models that make Google Search money. Previously, I was at [**@Amazon**](https://github.com/aws) and [**@Pinterest**](https://github.com/pinterest).
